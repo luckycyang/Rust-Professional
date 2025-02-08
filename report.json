@@ -102,15 +102,20 @@
     },
     {
       "name": "solution1",
+      "result": true,
+      "score": 6
+    },
+    {
+      "name": "solution2",
       "result": false,
       "score": 0
     }
   ],
   "statistics": {
-    "total_exercises": 21,
-    "total_successes": 20,
+    "total_exercises": 22,
+    "total_successes": 21,
     "total_failures": 1,
-    "total_score": 20,
-    "total_time": 6
+    "total_score": 26,
+    "total_time": 8
   }
 }
