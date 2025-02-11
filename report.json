@@ -107,15 +107,55 @@
     },
     {
       "name": "solution2",
+      "result": true,
+      "score": 6
+    },
+    {
+      "name": "solution3",
+      "result": true,
+      "score": 6
+    },
+    {
+      "name": "solution4",
+      "result": true,
+      "score": 6
+    },
+    {
+      "name": "solution5",
+      "result": true,
+      "score": 6
+    },
+    {
+      "name": "solutiont1",
+      "result": true,
+      "score": 10
+    },
+    {
+      "name": "solutiont2",
+      "result": true,
+      "score": 10
+    },
+    {
+      "name": "solutiont3",
       "result": false,
       "score": 0
+    },
+    {
+      "name": "solutiont4",
+      "result": false,
+      "score": 0
+    },
+    {
+      "name": "solutiont5",
+      "result": true,
+      "score": 10
     }
   ],
   "statistics": {
-    "total_exercises": 22,
-    "total_successes": 21,
-    "total_failures": 1,
-    "total_score": 26,
-    "total_time": 8
+    "total_exercises": 30,
+    "total_successes": 28,
+    "total_failures": 2,
+    "total_score": 80,
+    "total_time": 12
   }
 }
