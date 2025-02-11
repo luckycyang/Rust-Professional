@@ -4,7 +4,7 @@ mod calc_time;
 #[cfg(test)]
 mod tests {
     use super::calc_time::time_info;
-    use std::time::{Instant, Duration};
+    use std::time::{Duration, Instant};
 
     // 定义测试用例和预期结果，待补充8个测试用例子
     const TEST_CASES: &[(&str, &str)] = &[
